@@ -8,6 +8,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/77565-BetterTimeWarp",
         "repository": "https://github.com/HappyFaceIndustries/BetterTimeWarp"
+        "spacedock": "http://spacedock.info/mod/168/BetterTimeWarp"
     },
     "version": "2.2",
     "ksp_version": "1.0.5",
